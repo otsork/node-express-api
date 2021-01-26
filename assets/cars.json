@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Kia",
+    "engine": "1.6GDI",
+    "fuel": "petrol",
+    "type": "suv"
+  },
+  {
+    "id": 2,
+    "name": "Renault",
+    "engine": "1.2i",
+    "fuel": "petrol",
+    "type": "shopping_bag"
+  },
+  {
+    "id": 3,
+    "name": "Saab",
+    "engine": "2.0t",
+    "fuel": "petrol / re85",
+    "type": "coupe"
+  },
+  {
+    "id": "4",
+    "name": "Volkswagen",
+    "engine": "3.0tdi",
+    "fuel": "diesel",
+    "type": "hatchback"
+  }
+]
